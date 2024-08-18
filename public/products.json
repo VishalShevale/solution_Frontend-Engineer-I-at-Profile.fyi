@@ -1,0 +1,322 @@
+[
+    {
+      "id": 1,
+      "name": "Boult Drift BT Calling 1.69\" Smartwatch",
+      "price": 1399,
+      "originalPrice": 7999,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/p/o/3/-original-imagz95f3hgyptvg.jpeg?q=70&crop=false",
+      "description": "A cool smartwatch with health monitoring features."
+    },
+    {
+      "id": 2,
+      "name": "Noise Colorfit Icon 2 1.8\" Smartwatch",
+      "price": 1399,
+      "originalPrice": 5999,
+      "image": "https://m.media-amazon.com/images/I/61jOliJK5CL._SL1500_.jpg",
+      "description": "Premium quality smartwatch with calling functionality."
+    },
+    {
+      "id": 3,
+      "name": "Fastrack Revoltt FS1 1.83\" Smartwatch",
+      "price": 1199,
+      "originalPrice": 3995,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/j/h/7/-original-imagvpakfvggsgg5.jpeg?q=70&crop=false",
+      "description": "A durable and stylish smartwatch for every occasion."
+    },
+    {
+      "id": 4,
+      "name": "Amazfit Bip U Pro 1.43\" Smartwatch",
+      "price": 2999,
+      "originalPrice": 4999,
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/6/y/s/1-43-a2008-android-ios-amazfit-no-original-imaggkh6kswyub9a.jpeg?q=70&crop=false",
+      "description": "Smartwatch with built-in GPS and health tracking."
+    },
+    {
+      "id": 5,
+      "name": "Fire-Boltt Ninja 2 Max 1.5\" Smartwatch",
+      "price": 1299,
+      "originalPrice": 2999,
+      "image": "https://www.fireboltt.com/cdn/shop/products/1_b1da135d-35d4-4105-a9d4-ef7f13601121_400x.png?v=1642224545",
+      "description": "A budget-friendly smartwatch with essential features."
+    },
+    {
+      "id": 6,
+      "name": "Realme Watch 3 Pro 1.8\" Smartwatch",
+      "price": 1799,
+      "originalPrice": 4499,
+      "image": "https://m.media-amazon.com/images/I/717t9eZpV6L._SL1500_.jpg",
+      "description": "Smartwatch with AMOLED display and long battery life."
+    },{
+      "id": 7,
+      "name": "Fitbit Versa 3 Health & Fitness Smartwatch",
+      "price": 1599,
+      "originalPrice": 2299,
+      "image": "/images/ok.png",
+      "description": "Track your health and fitness with advanced metrics."
+    },
+    {
+      "id": 8,
+      "name": "Garmin Forerunner 45 GPS Smartwatch",
+      "price": 1999,
+      "originalPrice": 4999,
+      "image": "/images/ok.png",
+      "description": "Smartwatch with GPS tracking and workout modes."
+    },
+    {
+      "id": 9,
+      "name": "Apple Watch SE GPS 40mm Smartwatch",
+      "price": 2299,
+      "originalPrice": 3299,
+      "image": "/images/ok.png",
+      "description": "An all-round smartwatch for fitness and daily use."
+    },
+    {
+      "id": 10,
+      "name": "Samsung Galaxy Watch 4 Classic 46mm",
+      "price": 2499,
+      "originalPrice": 3799,
+      "image": "/images/ok.png",
+      "description": "Classic design smartwatch with health monitoring."
+    },
+    {
+      "id": 11,
+      "name": "TicWatch Pro 3 GPS Smartwatch",
+      "price": 1899,
+      "originalPrice": 4999,
+      "image": "/images/ok.png",
+      "description": "Long-lasting battery life and dual display."
+    },
+    {
+      "id": 12,
+      "name": "Huawei Watch GT 3 Pro",
+      "price": 2499,
+      "originalPrice": 4999,
+      "image": "/images/ok.png",
+      "description": "Luxurious design with advanced health tracking."
+    },
+    {
+      "id": 13,
+      "name": "Amazfit GTS 2 Mini",
+      "price": 999,
+      "originalPrice": 1999,
+      "image": "/images/ok.png",
+      "description": "A compact smartwatch with powerful features."
+    },
+    {
+      "id": 14,
+      "name": "Noise X-Fit 1.69\" Display Smartwatch",
+      "price": 1099,
+      "originalPrice": 3999,
+      "image": "/images/ok.png",
+      "description": "A large display smartwatch with customizable faces."
+    },
+    {
+      "id": 15,
+      "name": "OnePlus Watch Midnight Black",
+      "price": 2199,
+      "originalPrice": 4999,
+      "image": "/images/ok.png",
+      "description": "Smartwatch with oxygen sensor and warp charge."
+    },
+    {
+      "id": 16,
+      "name": "Redmi Watch 2 Lite",
+      "price": 1399,
+      "originalPrice": 3499,
+      "image": "/images/ok.png",
+      "description": "Compact design with GPS and health monitoring."
+    },
+    {
+      "id": 17,
+      "name": "Mi Watch Revolve Active",
+      "price": 1699,
+      "originalPrice": 4999,
+      "image": "/images/ok.png",
+      "description": "A premium smartwatch with an elegant design."
+    },
+    {
+      "id": 18,
+      "name": "Gionee StylFit GSW6",
+      "price": 799,
+      "originalPrice": 1999,
+      "image": "/images/smartwatch18.jpg",
+      "description": "Affordable smartwatch with fitness tracking features."
+    },
+    {
+      "id": 19,
+      "name": "Pebble Cosmos Max BT Calling",
+      "price": 1299,
+      "originalPrice": 3999,
+      "image": "/images/smartwatch19.jpg",
+      "description": "Bluetooth calling feature with AMOLED display."
+    },
+    {
+      "id": 20,
+      "name": "Titan Smart 2 1.78\" AMOLED Display",
+      "price": 2499,
+      "originalPrice": 5999,
+      "image": "/images/smartwatch20.jpg",
+      "description": "Elegant design with premium AMOLED display."
+    },
+    {
+      "id": 21,
+      "name": "Honor Watch ES 1.64\" AMOLED",
+      "price": 999,
+      "originalPrice": 2999,
+      "image": "/images/smartwatch21.jpg",
+      "description": "Compact and stylish smartwatch for fitness tracking."
+    },
+    {
+      "id": 22,
+      "name": "Crossbeats Ignite Atlas 1.75\" Smartwatch",
+      "price": 1799,
+      "originalPrice": 4999,
+      "image": "/images/smartwatch22.jpg",
+      "description": "Smartwatch with built-in GPS and offline maps."
+    },
+    {
+      "id": 23,
+      "name": "Boat Xtend Talk BT Calling Smartwatch",
+      "price": 1499,
+      "originalPrice": 3499,
+      "image": "/images/smartwatch23.jpg",
+      "description": "Smartwatch with Alexa and Bluetooth calling."
+    },
+    {
+      "id": 24,
+      "name": "Fire-Boltt Visionary AMOLED",
+      "price": 1799,
+      "originalPrice": 4999,
+      "image": "/images/smartwatch24.jpg",
+      "description": "High-quality AMOLED display with calling feature."
+    },
+    {
+      "id": 25,
+      "name": "NoiseFit Core 1.28\" Smartwatch",
+      "price": 999,
+      "originalPrice": 2999,
+      "image": "/images/smartwatch25.jpg",
+      "description": "Affordable smartwatch with heart rate monitoring."
+    },
+    {
+      "id": 26,
+      "name": "Timex iConnect Premium",
+      "price": 2199,
+      "originalPrice": 4499,
+      "image": "/images/smartwatch26.jpg",
+      "description": "Premium smartwatch with long battery life."
+    },
+    {
+      "id": 27,
+      "name": "Realme Watch 2 Pro",
+      "price": 1699,
+      "originalPrice": 3999,
+      "image": "/images/smartwatch27.jpg",
+      "description": "Advanced fitness tracking with built-in GPS."
+    },
+    {
+      "id": 28,
+      "name": "Fire-Boltt 360 Pro",
+      "price": 1499,
+      "originalPrice": 3299,
+      "image": "/images/smartwatch28.jpg",
+      "description": "Smartwatch with SpO2 monitoring and BT calling."
+    },
+    {
+      "id": 29,
+      "name": "Boat Watch Iris",
+      "price": 1199,
+      "originalPrice": 3999,
+      "image": "/images/smartwatch29.jpg",
+      "description": "Elegant design with multiple sports modes."
+    },
+    {
+      "id": 30,
+      "name": "Gizmore GizFit Ultra",
+      "price": 799,
+      "originalPrice": 2499,
+      "image": "/images/smartwatch30.jpg",
+      "description": "Affordable smartwatch with advanced features."
+    },
+    {
+      "id": 31,
+      "name": "Lenovo EGO Digital Smartwatch",
+      "price": 999,
+      "originalPrice": 1999,
+      "image": "/images/smartwatch31.jpg",
+      "description": "Compact digital smartwatch with fitness tracking."
+    },
+    {
+      "id": 32,
+      "name": "Molife Sense 500 BT Calling",
+      "price": 1499,
+      "originalPrice": 3499,
+      "image": "/images/smartwatch32.jpg",
+      "description": "Stylish smartwatch with Bluetooth calling."
+    },
+    {
+      "id": 33,
+      "name": "Fitshot Flair AMOLED Display",
+      "price": 1799,
+      "originalPrice": 4999,
+      "image": "/images/smartwatch33.jpg",
+      "description": "Vibrant AMOLED display with SpO2 monitoring."
+    },
+    {
+      "id": 34,
+      "name": "Hammer Pulse Ace 1.69\" Display",
+      "price": 1299,
+      "originalPrice": 2999,
+      "image": "/images/smartwatch34.jpg",
+      "description": "Large display with heart rate monitoring."
+    },
+    {
+      "id": 35,
+      "name": "Intex FitRist Active",
+      "price": 799,
+      "originalPrice": 1999,
+      "image": "/images/smartwatch35.jpg",
+      "description": "Affordable and feature-rich smartwatch."
+    },
+    {
+      "id": 36,
+      "name": "Kospet Rock Outdoor Smartwatch",
+      "price": 1699,
+      "originalPrice": 4999,
+      "image": "/images/smartwatch36.jpg",
+      "description": "Rugged smartwatch designed for outdoor activities."
+    },
+    {
+      "id": 37,
+      "name": "Urban Pro Z 1.72\" Smartwatch",
+      "price": 1199,
+      "originalPrice": 3999,
+      "image": "/images/smartwatch37.jpg",
+      "description": "Stylish design with advanced fitness tracking."
+    },
+    {
+      "id": 38,
+      "name": "Garmin Venu SQ GPS Smartwatch",
+      "price": 1999,
+      "originalPrice": 6999,
+      "image": "/images/smartwatch38.jpg",
+      "description": "Smartwatch with built-in GPS and fitness tracking."
+    },
+    {
+      "id": 39,
+      "name": "Fossil Gen 5E Smartwatch",
+      "price": 2499,
+      "originalPrice": 8999,
+      "image": "/images/smartwatch39.jpg",
+      "description": "Premium design with Wear OS by Google."
+    },
+    {
+      "id": 40,
+      "name": "Amazfit T-Rex Pro Rugged Smartwatch",
+      "price": 2999,
+      "originalPrice": 12999,
+      "image": "/images/smartwatch40.jpg",
+      "description": "Military-grade toughness and advanced tracking."
+    }
+  ]
+  
